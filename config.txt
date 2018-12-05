@@ -1,5 +1,5 @@
-token=NTE5Njc5MDc1Mzg0NTU3NTY4.Dui0hA.nh5U7kNg73neRq6c3P_e_7czDbY 
-owner=399668719900557312 
+token=NTE5Njc5MDc1Mzg0NTU3NTY4.Dui0hA.nh5U7kNg73neRq6c3P_e_7czDbY
+owner=399668719900557312
 prefix=^play
 game=^help
 stayinchannel=fals
